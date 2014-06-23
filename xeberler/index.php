@@ -19,12 +19,6 @@ include "process.php";
 
 include "process2.php";
 
-include "process3.php";
-
-include "process4.php";
-
-
-
 include "list.php";
 
 }

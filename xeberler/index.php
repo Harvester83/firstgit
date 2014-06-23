@@ -23,6 +23,11 @@ include "process3.php";
 
 include "process4.php";
 
+include "process5.php";
+
+include "process6.php";
+
+
 
 
 include "list.php";
